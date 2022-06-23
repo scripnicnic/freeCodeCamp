@@ -1,2 +1,2 @@
 # freeCodeCamp
-freeCodeCamp Projects
+freeCodeCamp Projects for the Relational Database Certification
